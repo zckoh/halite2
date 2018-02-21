@@ -2,6 +2,6 @@
 Open source AI coding challenge created by Two Sigma.
 
 
-Goals:
--Building a basic AI model for this game.
+Goals:\n
+-Building a basic AI model for this game.\n
 -Get familiar with Python3. 
