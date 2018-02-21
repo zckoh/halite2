@@ -1,7 +1,6 @@
 # halite2
-Open source AI coding challenge created by Two Sigma.
-
-
-Goals:\n
--Building a basic AI model for this game.\n
+Open source AI coding challenge created by Two Sigma.  
+  
+Goals:  
+-Building a basic AI model for this game.  
 -Get familiar with Python3. 
